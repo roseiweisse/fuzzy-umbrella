@@ -112,6 +112,10 @@ a:hover {
   color: #ff005c;
 }
 
+a:visited {
+  color: #ffd369;
+}
+
 .BUTTON_KLM {
   -webkit-border-radius: 20px;
   -moz-border-radius: 20px;

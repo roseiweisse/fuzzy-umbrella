@@ -27,7 +27,7 @@ hr {
 h1 {
   color: #0a043c;
   font-size: 50px;
-  font-family: 'Dancing Script', cursive;
+  font-family: 'Roboto', sans-serif;
   margin: 0;
 }
 
@@ -35,16 +35,16 @@ p {
   font-weight: normal;
   color: #0a043c;
   font-size: 25px;
-  font-family: 'Oswald', cursive;
+  font-family: 'Open Sans', sans-serif;
 }
 
 h2 {
   color: #0a043c;
-  font-family: 'Lemonada', cursive;
+  font-family: 'Roboto', sans-serif;
 }
 
 h3 {
-  font-family: 'Oswald', cursive;
+  font-family: 'Roboto', sans-serif;
   color: #0a043c;
 }
 
